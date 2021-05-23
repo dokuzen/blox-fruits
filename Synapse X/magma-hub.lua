@@ -5,11 +5,11 @@ end
 
 -- ^^^^^ Credits to an anonymous person for this (they didn't want their name on the crack)
 
-getgenv().key = "Cracked"
-getgenv().id = "Cracked"
+getgenv().key = "CrackedByHyperNite"
+getgenv().id = "ok123"
 
 local MagmaReturn = [[
-    {"Message":"Authentication Success","Key":"%s","Random":"%s","Hwid":"cracks","DiscordId":"%s"}
+    {"Message":"Authentication Success","Key":"%s","Random":"%s","Hwid":"hyperOnTop","DiscordId":"%s"}
 ]]
 
 local getRandom = function(url)
