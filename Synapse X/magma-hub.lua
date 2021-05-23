@@ -66,4 +66,4 @@ spawn(function()
        end
 end)
 
-loadstring(game:HttpGet("https://hypernite.xyz/Backup/MagmaHub/host_backup.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dokuzen/blox-fruits/main/Servers/magma-host.lua"))()
